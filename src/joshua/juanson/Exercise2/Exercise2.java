@@ -1,4 +1,4 @@
-package joshua.juanson;
+package joshua.juanson.Exercise2;
 
 public class Ex2 {
   public static void main(String[] args) {
