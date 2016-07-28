@@ -4,8 +4,8 @@ public class Exercise2 {
   public static void main(String[] args) {
     // Exercise 2.1
     // Implement fibonacci sequence
-    int a1 =0, a2 = 1, a3;
-    int i;
+    int a1 =0, a2 = 1;
+    int a3, i;
     System.out.println(a1 + " " + a2);
     for (i=2; i<10;i++)
     {
